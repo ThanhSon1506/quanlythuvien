@@ -1,0 +1,232 @@
+E:\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+E:\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\Folder của mị\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.cache
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+E:\#School\NAM_2\Lập tring window\Folder của mị\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+E:\do_an\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\do_an\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+C:\Users\Asus\Desktop\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Nhapaps.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Report1.rdlc
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormThongKe.resources
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\RdlCompile.cache
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\RdlCompile.compiled
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Report1.rdlc
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojResolveAssemblyReference.cache
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormThongKe.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.Cache
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\RdlCompile.cache
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\RdlCompile.compiled
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csprojAssemblyReference.cache
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDangNhap.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormDocGia.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMuonTraSach.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhanVien.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormNhaXuatBan.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormQLSach.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTacGia.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormTheLoai.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.Properties.Resources.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.FormMenu.vi.resources
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.GenerateResource.cache
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.CoreCompileInputs.cache
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.exe
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\Report1.rdlc
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe.config
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.exe
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\do_an_wind.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\vi\do_an_wind.resources.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BAL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\BEL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\bin\Debug\DAL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\vi\do_an_wind.resources.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\do_an_wind\obj\Debug\do_an_wind.csproj.CopyComplete

@@ -1,0 +1,83 @@
+C:\CSDL_Web\visual_da\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\BAL.dll
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\BAL.pdb
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\BEL.dll
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\DAL.dll
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\BEL.pdb
+C:\CSDL_Web\visual_da\do_an_wind\BAL\bin\Debug\DAL.pdb
+C:\CSDL_Web\visual_da\do_an_wind\BAL\obj\Debug\BAL.dll
+C:\CSDL_Web\visual_da\do_an_wind\BAL\obj\Debug\BAL.pdb
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.dll
+E:\do_an\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.pdb
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.dll
+E:\do_an\do_an_wind_v0.4-11\do_an_wind_v0.4\do_an_wind\BAL\obj\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\BEL.dll
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\BEL.pdb
+C:\Users\Asus\Desktop\do_an_wind\BAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\do_an_wind\BAL\obj\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind\BAL\obj\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.dll
+C:\Users\Asus\Desktop\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.pdb
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.dll
+E:\do_an\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.pdb
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.dll
+E:\do_an\Nhóm 1\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BAL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\BEL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\bin\Debug\DAL.pdb
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.csproj.CopyComplete
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.dll
+F:\rar\DangHieuLiem-DoanDiepTheNgoc-DoThanhSon\do_an_wind_V1.3_add-btnKhoiPhuc-and-decentralization (1)\do_an_wind_V1.1_add-btnKhoiPhuc-and-decentralization\do_an_wind\BAL\obj\Debug\BAL.pdb
